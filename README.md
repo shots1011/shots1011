@@ -1,7 +1,5 @@
 ## Hi there 👋
 I am Olushola Aiyekoribe
-<!--
-**shots1011/shots1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### About me
 - RAN, RF, and Microwave Transmission Engineer with over 12 years of experience supporting
